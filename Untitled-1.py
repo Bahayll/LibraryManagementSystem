@@ -155,7 +155,7 @@ class Library:
     
 
 
-lib = Library("C:/Users/baha_/OneDrive\Masaüstü/Yeni klasör/books.txt") # Library sınıfından bir nesne oluşturduk.
+lib = Library("books.txt") # Library sınıfından bir nesne oluşturduk.
 
 # lib nesnesi ile etkileşim için menüyü tasarlayalım.
 while True:
