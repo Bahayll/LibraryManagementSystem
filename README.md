@@ -5,4 +5,4 @@ Bu proje, Akbank Yeni Nesil Python Proje Bootcamp kapsamında geliştirilen basi
 
 
 Proje Açıklaması:
-Kütüphane Yönetim Sistemi, kullanıcıların kütüphane kaynaklarını yönetmelerini sağlayan bir sistemdir. Kullanıcılar sisteme, kitap ekleyebilir, kaldırabilir ve listeleme yapabilirler. Ayrıca listeleme ile, kitaplar hakkında detaylı bilgileri görüntüleyebilirler.
+Kütüphane Yönetim Sistemi, kullanıcıların kütüphane kaynaklarını temel düzeyde yönetmelerini sağlayan bir sistemdir. Kullanıcılar sisteme, kitap ekleyebilir, kaldırabilir ve listeleme yapabilirler. Ayrıca listeleme ile, kitaplar hakkında detaylı bilgileri görüntüleyebilirler.
