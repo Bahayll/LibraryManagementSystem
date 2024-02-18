@@ -1,0 +1,9 @@
+Sefiller,Victor Hugo,1862,1463
+Ulysses,James Joyce,1922,732
+Kör Baykuş,Sadık Hidayet,1936,120
+İnce Memed,Yaşar Kemal,1955,456
+Yüzyıllık Yalnızlık,Gabriel Garcia Marquez,1967,422
+Dönüşüm,Franz Kafka,1915,100
+Fareler ve İnsanlar,John Steinbeck,1937,187
+Dava,Franz Kafka,1925,352
+Sisler Bulvarı,Ihsan Oktay Anar,1995,288
