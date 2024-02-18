@@ -155,7 +155,7 @@ class Library:
     
 
 
-lib = Library("books.txt") # Library sınıfından bir nesne oluşturduk.
+lib = Library("books.txt") # Library sınıfından bir nesne oluşturduk. # Kod ile dosya aynı dizinde oldukları için direk dosya adı yazılmıştır dosyanın tam path'i de yazılabilir.
 
 # lib nesnesi ile etkileşim için menüyü tasarlayalım.
 while True:
